@@ -4,14 +4,14 @@
   
   ## Description 
   
-  ![web-app](https://user-images.githubusercontent.com/89440573/156862070-f6331f69-2530-43ee-b7b3-55ee7e0315c6.png)
+  This is an application that can be used on the web or downloaded to your desktop and used offline.  Perfect for those situations where you are not around internet or rather be offline while working on an assignment.  Jot down your notes and stay up to date on your assignments whether you are online or offline.
+ 
+ ![web-app](https://user-images.githubusercontent.com/89440573/156862070-f6331f69-2530-43ee-b7b3-55ee7e0315c6.png)
   Through web
   
   ![desktop](https://user-images.githubusercontent.com/89440573/156862073-d46fd3fb-1e1d-4026-936c-a8f4c8ed2cb2.png)
   Through desktop
 
-  This is an application that can be used on the web or downloaded to your desktop and used offline.  Perfect for those situations where you are not around internet or rather be offline while working on an assignment.  Jot down your notes and stay up to date on your assignments whether you are online or offline.
- 
  
  ## Table of Contents
   
